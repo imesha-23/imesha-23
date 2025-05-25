@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **imeshajayathilake438@gmail.com**
 
-- 👨‍💻 Check out more about me: 
+- 👨‍💻 Check out more about me: https://imeshajayathilake.netlify.app/
 
 - ⚡ Fun fact **I turn coffee into user-friendly interfaces**
 
