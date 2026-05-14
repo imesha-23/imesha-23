@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Imesha Jayathilake</h1>
-<h3 align="center">A creative UI/UX Designer from Sri Lanka</h3>
+<h3 align="center">A software engineer in Sri Lanka </h3>
 
 - 🌱 I’m currently learning **Design Systems | UX Research | Web Accessibility**
 
-- 💬 Ask me about **Figma, Prototyping, Wireframing, UX/UI principles, and Responsive Design**
+- 💬 Ask me about **Figma, Prototyping, Wireframing, UX/UI principles, Responsive Design ,Frontend Development,Backend Development and Modern Web Technologies**
 
 - 📫 How to reach me **imeshajayathilake438@gmail.com**
 
